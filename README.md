@@ -3,6 +3,7 @@
 This repository aims to solve a [Backend Code Challenge](https://github.com/edenzz/TrainTicketMachine/blob/master/TruphoneBackendDevelopment-TrainTicketMachine%20v1.1.pdf)
 
 [![License](https://img.shields.io/badge/licence-MIT-green.svg)](https://github.com/edenzz/TrainTicketMachine/blob/master/LICENSE)
+[![AppVeyor]](https://ci.appveyor.com/api/projects/status/5x7h7x1siq089ckf?svg=true)(https://ci.appveyor.com/project/edenzz/trainticketmachine)
 
 ## How to build?
 #### Prerequisites
